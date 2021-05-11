@@ -1,4 +1,5 @@
 # Portfolio 
+---
 
 ## Natural Language Processing
 
@@ -92,8 +93,5 @@
 <br>
 
 ---
-
-
-
-
+<br>
 <center>© 2020 Shilpa angadi. Powered by Jekyll and the Minimal Theme.</center>
