@@ -99,7 +99,7 @@ This system can be very helpful to Online News Providers to target right news ar
 In this project I am  presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL, SAD, SURPRISE.</div>
 
 <br>
-<center><img src="images/22.png"/></center>
+<center><img src="images/22.jpg"/></center>
 <br>
 
 ---
