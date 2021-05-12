@@ -52,13 +52,15 @@
 
 ## Recommendation Systems 
 
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### News-Articles-Recommendation
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RavikiranShilpa/ML-case-study/blob/master/ames_house_price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">Objective of the project is to build a hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
+
+This system can be very helpful to Online News Providers to target right news articles to right users.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/collage.png"/></center>
 <br>
 
 ---
