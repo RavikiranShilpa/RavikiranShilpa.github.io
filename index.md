@@ -60,7 +60,7 @@
 
 This system can be very helpful to Online News Providers to target right news articles to right users.</div>
 <br>
-<center><img src="images/collage.png"/></center>
+<center><img src="images/collage.jpg"/></center>
 <br>
 
 ---
