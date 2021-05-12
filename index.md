@@ -90,5 +90,19 @@ This system can be very helpful to Online News Providers to target right news ar
 
 ---
 
+### Real-Time-Facial-Expression-Recognition
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RavikiranShilpa/Real-Time-Facial-Expression-Recognition)
+
+<div style="text-align: justify">Computer animated agents and robots bring new dimension in human computer interaction which makes it vital as how computers can affect our social life in day-to-day activities. Face to face communication is a real-time process operating at a time scale in the order of milliseconds. The level of uncertainty at this time scale is considerable, making it necessary for humans and machines to rely on sensory rich perceptual primitives rather than slow symbolic inference processes.
+In this project I am  presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL, SAD, SURPRISE.</div>
+
+<br>
+<center><img src="images/22.png"/></center>
+<br>
+
+---
+
 <br>
 <center>© 2019 Shilpa angadi. Powered by Jekyll and the Minimal Theme.</center>
