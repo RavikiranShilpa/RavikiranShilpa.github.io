@@ -79,4 +79,4 @@ This system can be very helpful to Online News Providers to target right news ar
 ---
 
 <br>
-<center>© 2020 Shilpa angadi. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2019 Shilpa angadi. Powered by Jekyll and the Minimal Theme.</center>
