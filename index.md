@@ -76,6 +76,19 @@ This system can be very helpful to Online News Providers to target right news ar
 
 
 ---
+## Deep Learning
+
+### Music-Generation-Using-Deep-Learning
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RavikiranShilpa/Music-Generation-Using-Deep-Learning)
+
+<div style="text-align: justify">This case-study focuses on generating music automatically using Recurrent Neural Network(RNN). We do not necessarily have to be a music expert in order to generate music. Even a non expert can generate a decent quality music using RNN. Our input to the model is a sequence of musical events/notes. Our output will be new sequence of musical events/notes. In this case-study we have limited our self to single instrument music as this is our first cut model.</div>
+
+<br>
+<center><img src="images/1.png"/></center>
+<br>
+
+---
 
 <br>
 <center>© 2019 Shilpa angadi. Powered by Jekyll and the Minimal Theme.</center>
